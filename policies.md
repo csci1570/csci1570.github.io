@@ -30,7 +30,7 @@ Each of the homeworks will have a challenging bonus problems for students to try
 
 My preferred mode of interaction is in person. I will hold office hours and wish for each of you to come and introduce yourself to me at one of my office hours between the beginning of the semester and the first midterm. If you have any issues or concerns, do not hesitate to reach out to me or to the TAs. 
 
-# AI Policy
+## AI Policy
 
 This is a **no AI** course. 
 
