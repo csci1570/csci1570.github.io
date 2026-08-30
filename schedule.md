@@ -4,7 +4,7 @@ layout: default
 nav_order: 2
 ---
 
-| Lecture | Date | Topic | Notes |
+| # | Date | Topic | Notes |
 | :--- | :--- | :--- | :--- |
 | 1 | Sep 10 (Thurs) | Part I | |
 | 2 | Sep 15 (Tues) | | |
