@@ -36,3 +36,15 @@ This is a **no AI** course.
 
 If you wish to use AI outside class for help with the content of the lectures or out of curiosity, to explore related questions, or for any other reason, you are welcome to use it if it helps you. For example, you can use AI as a tool to re-explain content from lectures. You are not allowed to use AI for the homeworks (or the midterms, or the final exam). Please refer to the syllabus for a further explanation.
 
+## Expected Time Commitment
+Each week, in addition to 2 hours 40 minutes in class (for a total of 24 lectures), students will spend on average as much time on reading the material. Students can expect to spend 8 hours on each of the 9 homework assignments. Each of the two midterms will last 1 hour and 20 minutes, and the final will last 2.5 hours. Preparation for each exam should take 10 hours. This translates to a minimum of 180 hours of work throughout the semester, in line with Brown University policy for 1-credit courses.
+
+## Accommodations
+Brown University is committed to full inclusion of all students. Please inform me early in the term if you may require accommodations or modification of any of course procedures. You may speak with me after class, during office hours, or by appointment. If you need accommodations around online learning or in classroom accommodations, please be sure to reach out to Student Accessibility Services (SAS) for their assistance (sas@brown.edu, 401-863-9588). If you encounter any digital materials in this course that are inaccessible, complete the Digital Accessibility Concern Reporting Form. For any accessibility or accommodation concerns, please contact the ADA/504 Coordinator at ada_504@brown.edu. Undergraduates in need of short-term academic advice or support can contact an academic dean in the College by emailing college@brown.edu. Graduate students may contact one of the deans in the Graduate School by emailing graduate_school@brown.edu.
+
+## Diversity and Inclusion
+The course intends to provide a welcoming environment for all students. We especially welcome diverse ideas and perspectives during class discussions. 
+
+All members of the CS community, including faculty and staff, are expected to treat one another professionally. Toward this goal, TAs have undergone training in diversity and inclusion. However, despite our best efforts, we may accidentally slip up, so please feel free to speak to any member of the course staff with any concerns you have during the semester, and do not hesitate to contact Claire directly. We will take your concerns very seriously.
+
+
