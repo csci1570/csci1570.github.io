@@ -33,4 +33,4 @@ nav_order: 2
 | 23 | Dec 03 (Thurs) | | |
 | 24 | Dec 08 (Tues) | Course Recap (Reading Period) | |
 | | Dec 10 (Thurs) | No Class (Reading period) | |
-| | Dec 14 (Tues) | Final Exam | |
+| | Dec 14 (Mon) | Final Exam | |
