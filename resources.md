@@ -1,5 +1,5 @@
 ---
-title: Resources & Policies
+title: Resources
 layout: default
 nav_order: 6
 ---
