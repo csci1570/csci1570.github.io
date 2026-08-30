@@ -12,7 +12,7 @@ The breakdown of grades is as follows:
 
 ### Homework Details
 
-There will be about 9 homeworks. Each homework is given a grade of 100% if something is turned in by the deadline and 0% otherwise, irrespective of the content of the homework. Thus, using AI has no effect on the homework grades. We will still provide feedback on your homework as if it were an exam.
+There will be about 9 homeworks, about one per week. Each homework is given a grade of 100% if something is turned in by the deadline and 0% otherwise, irrespective of the content of the homework. Thus, using AI has no effect on the homework grades. We will still provide feedback on your homework as if it were an exam.
 
 Homeworks require mental effort. It is hard to make yourself do it when there are other demands on your time. But for most people it is much easier to get to work if they are not alone doing it. For that reason, we ask that (unless you absolutely are allergic to the idea) you do the homeworks in pairs. Each homework will be done by two students working together and the pair will turn in a single homework bearing both of their names.
 
