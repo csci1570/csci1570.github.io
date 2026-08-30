@@ -1,6 +1,8 @@
 title: CSCI 1570
 description: CSCI 1570 Course Website
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
 
 url: https://csci1570.github.io
 aux_links:
