@@ -47,6 +47,10 @@ The course intends to provide a welcoming environment for all students. We espec
 
 All members of the CS community, including faculty and staff, are expected to treat one another professionally. Toward this goal, TAs have undergone training in diversity and inclusion. However, despite our best efforts, we may accidentally slip up, so please feel free to speak to any member of the course staff with any concerns you have during the semester, and do not hesitate to contact Claire directly. We will take your concerns very seriously.
 
+## Incompletes
+
+In extraordinary situations, students may request to receive an incomplete grade. Such cases must be accompanied by a Dean’s note and will be assessed case by case.
+
 ## Student Well-Being
 Being a student can be very stressful. If you feel you are under too much pressure or there are psychological issues that are keeping you from performing well at Brown, we encourage you to contact [Brown’s Counseling and Psychological Services (CAPS)](https://caps.brown.edu/). They provide confidential counseling. You may also find [these resources from Brown Health and Wellness](https://cs.brown.edu/media/filer_public/03/0a/030a6a2e-7a61-4c30-98c1-dce87b9d9899/brown_cs_health_and_wellness_resources.pdf) (and links therein) useful.
 
