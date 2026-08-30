@@ -3,4 +3,8 @@ description: CSCI 1570 Course Website
 theme: just-the-docs
 
 url: https://csci1570.github.io
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - Gemfile.lock
