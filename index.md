@@ -17,6 +17,10 @@ seo:
 
 **Head TA:** Manas Korimilli
 
+**Time:** Tuesdays & Thursdays 1:00 pm - 2:20 pm
+
+**Location:** CIT 477
+
 **Course Description:** TBD
 
 
