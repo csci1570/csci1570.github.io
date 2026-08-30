@@ -21,7 +21,7 @@ nav_order: 2
 | 13 | Oct 22 (Thurs) | | |
 | 14 | Oct 27 (Tues) | | |
 | 15 | Oct 29 (Thurs) | | |
-| - | Nov 03 (Tues) | No Class (Election day) | |
+| - | Nov 03 (Tues) | No Class (Election Day) | |
 | 16 | Nov 05 (Thurs) | Midterm 2 | |
 | 17 | Nov 10 (Tues) | Part III | |
 | 18 | Nov 12 (Thurs) | | |
@@ -32,5 +32,5 @@ nav_order: 2
 | 22 | Dec 01 (Tues) | | |
 | 23 | Dec 03 (Thurs) | | |
 | 24 | Dec 08 (Tues) | Course Recap (Reading Period) | |
-| | Dec 10 (Thurs) | No Class (Reading period) | |
+| | Dec 10 (Thurs) | No Class (Reading Period) | |
 | | Dec 14 (Mon) | Final Exam | |
