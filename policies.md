@@ -28,7 +28,7 @@ Each of the homeworks will have a challenging bonus problems for students to try
 
 ## Interactions
 
-My preferred mode of interaction is in person. I will hold office hours and wish for each of you to come and introduce yourself to me at one of my office hours between the beginning of the semester and the first midterm. The HTA (Manas) and TA (Sunny) will be holding office hours every week. The course Ed Discussion is also available to ask about the course content or homeworks. If you have any issues or concerns, do not hesitate to reach out to me or to the TAs.
+My preferred mode of interaction is in person. I will hold office hours and wish for each of you to come and introduce yourself to me at one of my office hours between the beginning of the semester and the first midterm. The HTA (Manas) and TA (Sunny) will be holding office hours every week. Ed Discussion is also available to ask about the course content or homeworks. If you have any issues or concerns, do not hesitate to reach out to me or to the TAs.
 
 ## AI Policy
 
