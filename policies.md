@@ -9,7 +9,6 @@ The breakdown of grades is as follows:
 * 25% Midterm 1
 * 25% Midterm 2
 * 40% Final
-The course grade will be obtained from a weighted average of the final exam (40\%), the two midterms (25\% each), and the homeworks (10\%). 
 
 ### Homework Details
 
