@@ -14,6 +14,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 **Professor:** Claire Mathieu
+
 **Head TA:** Manas Korimilli
 
 **Course Description:** TBD
