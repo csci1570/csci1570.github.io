@@ -51,7 +51,7 @@ For questions related to course content or assignments, the best way to reach th
     <img src="{{ '/assets/staff/claire.jpg' | relative_url }}" alt="Claire Mathieu" class="staff-avatar">
     <div class="staff-info">
       <h3 class="staff-name">Claire Mathieu</h3>
-      <p class="staff-role">Professor | Office Hours: Tues 11am-12pm, Thurs 9:30am-10:30am</p>
+      <p class="staff-role">Professor<br><br>Office Hours:<br>Tues 11am-12pm, Thurs 9:30am-10:30am</p>
     </div>
   </div>
 
@@ -59,7 +59,7 @@ For questions related to course content or assignments, the best way to reach th
     <img src="{{ '/assets/staff/manas_snow.jpg' | relative_url }}" alt="Manas Korimilli" class="staff-avatar">
     <div class="staff-info">
       <h3 class="staff-name">Manas Korimilli</h3>
-      <p class="staff-role">HTA | Office Hours: TBD</p>
+      <p class="staff-role">HTA<br><br>Office Hours: TBD</p>
     </div>
   </div>
 
@@ -67,7 +67,7 @@ For questions related to course content or assignments, the best way to reach th
     <img src="{{ '/assets/staff/sunny.jpg' | relative_url }}" alt="Sunny Xu" class="staff-avatar">
     <div class="staff-info">
       <h3 class="staff-name">Sunny Xu</h3>
-      <p class="staff-role">UTA | Office Hours: TBD</p>
+      <p class="staff-role">UTA<br><br>Office Hours: TBD</p>
     </div>
   </div>
 
