@@ -4,6 +4,11 @@ layout: default
 nav_order: 2
 ---
 
+* *Part I*. Greedy Algorithms. Divide and Conquer. Dynamic Programming. Random Sampling. 
+* *Part II*. Online Data Structures (e.g. Union-Find) with Amortized Analysis. Text Compression (e.g. Lempel-Ziv). Bipartite Matchings. Flows. Linear Programming (Simplex). Markov Chain Monte Carlo (without runtime analysis).
+* *Part III (Time Allowing)*. Clustering. Beyond Worst-Case Models. Approximation Algorithms. Energy Minimization. Stable Matching. etc.
+
+
 | Lecture # | Date | Topic | Notes |
 | :--- | :--- | :--- | :--- |
 | 1 | Sep 10 (Thurs) | Part I | |
