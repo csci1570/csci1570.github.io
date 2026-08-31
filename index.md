@@ -21,11 +21,4 @@ seo:
 
 **Location:** CIT 477
 
-**Course Description:** TBD
-
-Topics include the following:
-* *Part I*. Greedy Algorithms. Divide and Conquer. Dynamic Programming. Random Sampling. 
-* *Part II*. Online Data Structures (e.g. Union-Find) with Amortized Analysis. Text Compression (e.g. Lempel-Ziv). Bipartite Matchings. Flows. Linear Programming (Simplex). Markov Chain Monte Carlo (without runtime analysis).
-
-Possible additional topics:
-* *Part III*. Clustering. Beyond Worst-Case Models. Approximation Algorithms. Energy Minimization. Stable Matching. etc.
+**Course Description:** This course will cover techniques for designing and analyzing algorithms. We will explore fundamental paradigms and advanced techniques for designing efficient algorithms and proving their correctness. Topics include the following: greedy algorithms, divide and conquer, dynamic programming, random sampling, online data structures (e.g. union-find) with amortized analysis, text compression (e.g. Lempel-Ziv), bipartite matchings, flows, linear programming (simplex), and Markov Chain Monte Carlo. Possible additional topics: clustering, beyond worst-case models, approximation algorithms, energy minimization, and stable matching.
