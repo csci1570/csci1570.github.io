@@ -67,7 +67,7 @@ For questions related to course content or assignments, the best way to reach th
     <img src="{{ '/assets/staff/sunny.jpg' | relative_url }}" alt="Sunny Xu" class="staff-avatar">
     <div class="staff-info">
       <h3 class="staff-name">Sunny Xu</h3>
-      <p class="staff-role"><strong>UTA</strong><br><br><stron>Office Hours:</strong><br>TBD</p>
+      <p class="staff-role"><strong>UTA</strong><br><br><strong>Office Hours:</strong><br>TBD</p>
     </div>
   </div>
 
