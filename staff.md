@@ -7,20 +7,20 @@ nav_order: 8
 .staff-container {
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
+  gap: 2rem;
   margin-top: 1rem;
 }
 
 .staff-member {
   display: flex;
-  align-items: center;
-  gap: 1.25rem;
+  align-items: flex-start;
+  gap: 1.5rem;
 }
 
 .staff-avatar {
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
+  width: 200px; /* Adjust image width as needed */
+  height: auto;  /* Maintains aspect ratio */
+  border-radius: 8px; /* Optional: adds subtle rounded corners; set to 0px for sharp corners */
   object-fit: cover;
   flex-shrink: 0;
 }
@@ -31,14 +31,15 @@ nav_order: 8
 }
 
 .staff-name {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
   font-weight: 600;
-  margin: 0;
+  margin: 0 0 0.5rem 0;
 }
 
 .staff-role {
   color: var(--color-space-grey-000, #666);
-  margin: 0.2rem 0 0 0;
+  margin: 0;
+  line-height: 1.5;
 }
 </style>
 
@@ -53,10 +54,18 @@ nav_order: 8
   </div>
 
   <div class="staff-member">
-    <img src="{{ '/assets/staff/claire.jpg' | relative_url }}" alt="Manas Korimilli" class="staff-avatar">
+    <img src="{{ '/assets/staff/manas.jpg' | relative_url }}" alt="Manas Korimilli" class="staff-avatar">
     <div class="staff-info">
       <h3 class="staff-name">Manas Korimilli</h3>
-      <p class="staff-role">Head Teaching Assistant | Office Hours: TBD</p>
+      <p class="staff-role">HTA | Office Hours: TBD</p>
+    </div>
+  </div>
+
+  <div class="staff-member">
+    <img src="{{ '/assets/staff/sunny.jpg' | relative_url }}" alt="Sunny Xu" class="staff-avatar">
+    <div class="staff-info">
+      <h3 class="staff-name">Sunny Xu</h3>
+      <p class="staff-role">UTA | Office Hours: TBD</p>
     </div>
   </div>
 
