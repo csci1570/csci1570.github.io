@@ -24,6 +24,7 @@ seo:
 **Course Description:** TBD
 
 **Topics:**
+
 *Part 1*
 * Greedy Algorithms
 * Divide and Conquer
