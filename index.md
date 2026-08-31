@@ -24,8 +24,8 @@ seo:
 **Course Description:** TBD
 
 Topics include the following:
-* *Part 1*. Greedy Algorithms. Divide and Conquer. Dynamic Programming. Random Sampling. 
-* *Part 2*. Online Data Structures (e.g. Union-Find) with Amortized Analysis. Text Compression (e.g. Lempel-Ziv). Bipartite Matchings. Flows. Linear Programming (Simplex). Markov Chain Monte Carlo (without runtime analysis).
+* *Part I*. Greedy Algorithms. Divide and Conquer. Dynamic Programming. Random Sampling. 
+* *Part II*. Online Data Structures (e.g. Union-Find) with Amortized Analysis. Text Compression (e.g. Lempel-Ziv). Bipartite Matchings. Flows. Linear Programming (Simplex). Markov Chain Monte Carlo (without runtime analysis).
 
 Possible additional topics:
-* *Part 3*. Clustering. Beyond Worst-Case Models. Approximation Algorithms. Energy Minimization. Stable Matching. etc.
+* *Part III*. Clustering. Beyond Worst-Case Models. Approximation Algorithms. Energy Minimization. Stable Matching. etc.
