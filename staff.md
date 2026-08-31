@@ -45,7 +45,7 @@ nav_order: 8
 <div class="staff-container">
 
   <div class="staff-member">
-    <img src="{{ '/assets/staff/claire.jpeg' | relative_url }}" alt="Claire Mathieu" class="staff-avatar">
+    <img src="{{ '/assets/staff/claire.jpg' | relative_url }}" alt="Claire Mathieu" class="staff-avatar">
     <div class="staff-info">
       <h3 class="staff-name">Claire Mathieu</h3>
       <p class="staff-role">Professor | Office Hours: TBD</p>
@@ -53,7 +53,7 @@ nav_order: 8
   </div>
 
   <div class="staff-member">
-    <img src="{{ '/assets/images/claire.jpeg' | relative_url }}" alt="Manas Korimilli" class="staff-avatar">
+    <img src="{{ '/assets/staff/claire.jpg' | relative_url }}" alt="Manas Korimilli" class="staff-avatar">
     <div class="staff-info">
       <h3 class="staff-name">Manas Korimilli</h3>
       <p class="staff-role">Head Teaching Assistant | Office Hours: TBD</p>
