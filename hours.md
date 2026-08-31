@@ -1,7 +1,7 @@
 ---
 title: Hours
 layout: default
-nav_order: 5
+nav_order: 4
 ---
 ## Office Hours
 * Office hour schedule can be found on the [Office Hours Calendar](https://calendar.google.com/calendar/embed?src=c_cf86bf03d115eaad9e9514116e252ef3b6ab4e3b779115ae64ed949e7b52cb9b%40group.calendar.google.com&ctz=America%2FNew_York).
