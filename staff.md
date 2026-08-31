@@ -3,7 +3,7 @@ title: Staff
 layout: default
 nav_order: 7
 ---
-For questions related to course content or assignments, the best way to reach the staff is via office hours or Ed. You may also email the course staff at [cs1570tas@lists.brown.edu](mailto:cs1570tas@lists.brown.edu). For sensitive/grading issues, you can send an email to only the HTA and Professor at [cs1570headtas@lists.brown.edu](mailto:cs1570headtas@lists.brown.edu). You can also contact the Professor directly at [claire_mathieu@brown.edu](mailto:claire_mathieu@brown.edu).
+For questions related to course content or assignments, the best way to reach the staff is via office hours or [Ed Discussion]({{ site.edstem_url }}). You may also email the course staff at [cs1570tas@lists.brown.edu](mailto:cs1570tas@lists.brown.edu). For sensitive/grading issues, you can send an email to only the HTA and Professor at [cs1570headtas@lists.brown.edu](mailto:cs1570headtas@lists.brown.edu). You can also contact the Professor directly at [claire_mathieu@brown.edu](mailto:claire_mathieu@brown.edu).
 
 <style>
 .staff-container {
