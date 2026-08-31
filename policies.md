@@ -1,7 +1,7 @@
 ---
 title: Policies
 layout: default
-nav_order: 7
+nav_order: 6
 ---
 ## Grading
 The breakdown of grades is as follows:
