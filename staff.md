@@ -51,7 +51,7 @@ For questions related to course content or assignments, the best way to reach th
     <img src="{{ '/assets/staff/claire.jpg' | relative_url }}" alt="Claire Mathieu" class="staff-avatar">
     <div class="staff-info">
       <h3 class="staff-name">Claire Mathieu</h3>
-      <p class="staff-role"><strong>Professor</strong><br><br>Office Hours:<br>Tues 11am-12pm, Thurs 9:30am-10:30am</p>
+      <p class="staff-role"><strong>Professor</strong><br><br><strong>Office Hours:</strong><br>Tues 11am-12pm, Thurs 9:30am-10:30am</p>
     </div>
   </div>
 
