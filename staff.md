@@ -54,7 +54,7 @@ nav_order: 8
   </div>
 
   <div class="staff-member">
-    <img src="{{ '/assets/staff/manas.jpg' | relative_url }}" alt="Manas Korimilli" class="staff-avatar">
+    <img src="{{ '/assets/staff/manas_snow.jpg' | relative_url }}" alt="Manas Korimilli" class="staff-avatar">
     <div class="staff-info">
       <h3 class="staff-name">Manas Korimilli</h3>
       <p class="staff-role">HTA | Office Hours: TBD</p>
