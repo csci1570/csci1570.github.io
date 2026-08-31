@@ -24,13 +24,13 @@ seo:
 **Course Description:** TBD
 
 **Topics:**
-*Part 1* - Basic Methods to Design Algorithms
+*Part 1*
 * Greedy Algorithms
 * Divide and Conquer
 * Dynamic Programming
 * Random Sampling
 
-*Part 2* - Advanced Algorithms
+*Part 2*
 * Online Data Structures (e.g. Union-Find) with amortized analysis
 * Text Compression (e.g. Lempel-Ziv)
 * Bipartite Matchings
