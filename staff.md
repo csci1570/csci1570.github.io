@@ -3,6 +3,8 @@ title: Staff
 layout: default
 nav_order: 8
 ---
+For questions related to course content or assignments, the best way to reach the staff is via office hours or Ed. You may also email the course staff at [cs1570tas@lists.brown.edu](mailto:cs1570tas@lists.brown.edu). For sensitive issues or grade issues, you can send an email to only the HTA and Professor at [cs1570headtas@lists.brown.edu](mailto:cs1570headtas@lists.brown.edu). You can also contact the Professor directly at [claire_mathieu@brown.edu](mailto:claire_mathieu@brown.edu).
+
 <style>
 .staff-container {
   display: flex;
@@ -49,7 +51,7 @@ nav_order: 8
     <img src="{{ '/assets/staff/claire.jpg' | relative_url }}" alt="Claire Mathieu" class="staff-avatar">
     <div class="staff-info">
       <h3 class="staff-name">Claire Mathieu</h3>
-      <p class="staff-role">Professor | Office Hours: TBD</p>
+      <p class="staff-role">Professor | Office Hours: Tuesdays 11am-12pm, Thursdays 9:30am-10:30am</p>
     </div>
   </div>
 
