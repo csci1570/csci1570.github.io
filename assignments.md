@@ -3,7 +3,7 @@ title: Assignments
 layout: default
 nav_order: 3
 ---
-Homework will be posted on [Gradescope]({{ site.gradescope_url }}). All assignments should be typeset in LaTeX and submitted to Gradescope by the deadline. There are no late days (again, homeworks are graded on completion and so you will get full credit as long as you turn something in before the deadline). Any homework turned in after the deadline will receive a 0.
+Homework will be posted on [Gradescope]({{ site.gradescope_url }}). All assignments should be typeset in LaTeX and submitted to Gradescope by the deadline. There are no late days (again, homeworks are graded on completion so you will get full credit as long as you turn something in before the deadline). Any homework turned in after the deadline will receive a 0.
 
 Only one student in each pair should submit to Gradescope (this student should add the other as a collaborator on the Gradescope assignment). Homework assignments and Overleaf LaTeX templates will also be posted on [Ed]({{ site.edstem_url }}).
 
