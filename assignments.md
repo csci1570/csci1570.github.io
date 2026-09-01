@@ -17,5 +17,5 @@ All assignments should be typeset in LaTeX and submitted to [Gradescope]({{ site
 | 8 | | Nov 5 (Thurs) | Nov 12 (Thurs) | |
 | 9 | | Nov 12 (Thurs) | Nov 19 (Thurs) | |
 | 10 | | Nov 12 (Thurs) | Nov 19 (Thurs) | |
-| 11 | | Nov 19 (Thurs) | Nov 26 (Thurs) | |
+| 11 | | Nov 19 (Thurs) | Nov 26 (Thurs) | Thanksgiving on Nov. 25 onward |
 | 12 | | Dec 1 (Tues) | Dec 8 (Thurs) | |
