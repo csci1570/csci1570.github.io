@@ -20,8 +20,9 @@ There are many free LaTeX editors available online. Here are two easy-to-use edi
 * [Overleaf](https://www.overleaf.com/) (recommended) is a free, web-based LaTeX editor that lets you see a preview of your compiled PDF as you type. You can also easily add collaborators. No installation is required (and you get a free Pro subscription with your Brown email). We'll also provide an Overleaf template for each homework.
 * [VS Code](https://code.visualstudio.com/) with [LaTeX Workshop extension](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
 
-If you don't know the LaTeX code for a symbol, this is a neat site which will return the LaTeX code based on handwritten input:
-* [Detexify](https://detexify.kirelabs.org/)
+Other Useful Links:
+* [Detexify](https://detexify.kirelabs.org/). If you don't know the LaTeX code for a symbol, this is a neat site which will return the LaTeX code based on handwritten input.
+* [Pseudocode Guide]({{ site.baseurl }}/assets/guides/cs1570_pseudocode_guide.pdf). Our recommendations for typesetting pseudocode in LaTeX.
 
 If you've never done this whole LaTeX business before, don't panic! Here are some links to help you get started:
 * [A Beginner's Guide to LaTeX](https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf)
