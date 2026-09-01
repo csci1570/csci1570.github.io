@@ -20,7 +20,7 @@ For questions related to course content or assignments, the best way to reach th
 }
 
 .staff-avatar {
-  width: 200px; /* Adjust image width as needed */
+  width: 300px; /* Adjust image width as needed */
   height: auto;  /* Maintains aspect ratio */
   border-radius: 8px; /* Optional: adds subtle rounded corners; set to 0px for sharp corners */
   object-fit: cover;
