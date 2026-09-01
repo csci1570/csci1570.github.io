@@ -51,7 +51,7 @@ For questions related to course content or assignments, the best way to reach th
     <img src="{{ '/assets/staff/claire.jpg' | relative_url }}" alt="Claire Mathieu" class="staff-avatar">
     <div class="staff-info">
       <h3 class="staff-name">Claire Mathieu</h3>
-      <p class="staff-role"><strong>Professor</strong></p>
+      <p class="staff-role"><strong>Professor</strong><br><br><strong>Office Hours:</strong><br>Tuesdays 11am-12pm, Thursdays 9:30am-10:30am</p>
     </div>
   </div>
 
@@ -59,7 +59,7 @@ For questions related to course content or assignments, the best way to reach th
     <img src="{{ '/assets/staff/manas_snow.jpg' | relative_url }}" alt="Manas Korimilli" class="staff-avatar">
     <div class="staff-info">
       <h3 class="staff-name">Manas Korimilli</h3>
-      <p class="staff-role"><strong>HTA</strong><br><br>Hi!</p>
+      <p class="staff-role"><strong>HTA</strong><br><br>Hey! My name is Manas, and I'm a senior from Fremont, CA studying CS and APMA. Outside of TA'ing, I enjoy guitar, playing basketball, and reading. </p>
     </div>
   </div>
 
@@ -67,7 +67,7 @@ For questions related to course content or assignments, the best way to reach th
     <img src="{{ '/assets/staff/sunny.jpg' | relative_url }}" alt="Sunny Xu" class="staff-avatar">
     <div class="staff-info">
       <h3 class="staff-name">Sunny Xu</h3>
-      <p class="staff-role"><strong>UTA</strong><br><br>Hi!</p>
+      <p class="staff-role"><strong>UTA</strong><br><br></p>
     </div>
   </div>
 
