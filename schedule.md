@@ -10,7 +10,7 @@ nav_order: 2
 
 ## Lectures
 | # | Date | Topic | Notes |
-| :- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | 1 | Sep 10 (Thurs) | Part I | |
 | 2 | Sep 15 (Tues) | | |
 | 3 | Sep 17 (Thurs) | | |
