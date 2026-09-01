@@ -7,15 +7,13 @@ All assignments should be typeset in LaTeX and submitted to [Gradescope]({{ site
 
 | Homework # | Topic | Release | Due | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Greedy Algorithms | Sep 10 (Thurs) | Sep 17 (Thurs) | |
-| 2 | | Sep 17 (Thurs) | Sep 24 (Thurs) | |
-| 3 | | Sep 24 (Thurs) | Oct 8 (Thurs) | |
-| 4 | | Oct 8 (Thurs) | Oct 15 (Thurs) | |
-| 5 | | Oct 15 (Thurs) | Oct 22 (Thurs) | |
-| 6 | | Oct 22 (Thurs) | Oct 29 (Thurs) | |
-| 7 | | Oct 29 (Thurs) | Nov 5 (Thurs) | |
-| 8 | | Nov 5 (Thurs) | Nov 12 (Thurs) | |
-| 9 | | Nov 12 (Thurs) | Nov 19 (Thurs) | |
-| 10 | | Nov 12 (Thurs) | Nov 19 (Thurs) | |
-| 11 | | Nov 19 (Thurs) | Nov 26 (Thurs) | Thanksgiving on Nov. 25 onward |
-| 12 | | Dec 1 (Tues) | Dec 8 (Thurs) | |
+| 1 | Greedy Algorithms | Sep 17 (Thurs) | Sep 24 (Thurs) | |
+| 2 | | Sep 24 (Thurs) | Oct 8 (Thurs) | |
+| 3 | | Oct 8 (Thurs) | Oct 15 (Thurs) | |
+| 4 | | Oct 15 (Thurs) | Oct 22 (Thurs) | |
+| 5 | | Oct 22 (Thurs) | Oct 29 (Thurs) | |
+| 6 | | Oct 29 (Thurs) | Nov 5 (Thurs) | |
+| 7 | | Nov 5 (Thurs) | Nov 12 (Thurs) | |
+| 8 | | Nov 12 (Thurs) | Nov 19 (Thurs) | |
+| 9 | | Nov 19 (Thurs) | Dec 1 (Tues) | |
+| 10 | | Dec 1 (Tues) | Dec 8 (Thurs) | |
