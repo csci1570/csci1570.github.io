@@ -9,7 +9,7 @@ All assignments should be typeset in LaTeX and submitted to [Gradescope]({{ site
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Greedy Algorithms | Sep 10 (Thurs) | Sep 17 (Thurs) | |
 | 2 | Divide & Conquer | Sep 17 (Thurs) | Sep 24 (Thurs) | |
-| 3 | Dynamic Programming | Sep 24 (Thurs) | Oct 1 (Thurs) | |
+| 3 | Dynamic Programming + Random Sampling | Sep 24 (Thurs) | Oct 1 (Thurs) | |
 | 4 | Online Data Structures | Oct 8 (Thurs) | Oct 15 (Thurs) | |
 | 5 | Matching + Flows | Oct 15 (Thurs) | Oct 22 (Thurs) | |
 | 6 | Linear Programming | Oct 22 (Thurs) | Oct 29 (Thurs) | |
