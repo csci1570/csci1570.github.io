@@ -6,7 +6,7 @@ nav_order: 3
 All assignments should be typeset in LaTeX and submitted to [Gradescope]({{ site.gradescope_url }}). Only one student in each pair should submit to Gradescope (this student should add the other as a collaborator on the Gradescope assignment). Homework assignments (with Overleaf LaTeX templates) will also be released on [Ed]({{ site.edstem_url }}).
 
 | Homework # | Topic | Release | Due | Notes |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :---- | :---- | :--- |
 | 1 | Greedy Algorithms | Sep 10 (Thurs) | Sep 17 (Thurs) | |
 | 2 | Divide & Conquer | Sep 17 (Thurs) | Sep 24 (Thurs) | |
 | 3 | Dynamic Programming + Random Sampling | Sep 24 (Thurs) | Oct 1 (Thurs) | |
