@@ -7,7 +7,7 @@ All assignments should be typeset in LaTeX and submitted to [Gradescope]({{ site
 
 | Homework # | Topic | Release | Due | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Greedy Algorithms | Sep 9 (Thurs) | Sep 17 (Thurs) | |
+| 1 | Greedy Algorithms | Sep 10 (Thurs) | Sep 17 (Thurs) | First class September 9th|
 | 2 | | Sep 17 (Thurs) | Sep 24 (Thurs) | |
 | X | | Sep 24 (Thurs) | Oct 8 (Thurs) | Midterm on October 6th|
 | 3 | | Oct 8 (Thurs) | Oct 15 (Thurs) | |
