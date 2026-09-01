@@ -27,3 +27,9 @@ If you've never done this whole LaTeX business before, don't panic! Here are som
 * [A Beginner's Guide to LaTeX](https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf)
 * [The Basics](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1))
 * [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+
+## Accommodations
+Brown University is committed to full inclusion of all students. Please inform me early in the semester if you may require accommodations or modification of any of course procedures. You may speak with me after class, during office hours, or by appointment. If you need accommodations around online learning or in classroom accommodations, please be sure to reach out to Student Accessibility Services (SAS) for their assistance (sas@brown.edu, 401-863-9588). If you encounter any digital materials in this course that are inaccessible, complete the Digital Accessibility Concern Reporting Form. For any accessibility or accommodation concerns, please contact the ADA/504 Coordinator at ada_504@brown.edu. Undergraduates in need of short-term academic advice or support can contact an academic dean in the College by emailing college@brown.edu. Graduate students may contact one of the deans in the Graduate School by emailing graduate_school@brown.edu.
+
+## Student Well-Being
+Being a student can be very stressful. If you feel you are under too much pressure or there are psychological issues that are keeping you from performing well at Brown, we encourage you to contact [Brown’s Counseling and Psychological Services (CAPS)](https://caps.brown.edu/). They provide confidential counseling. You may also find [these resources from Brown Health and Wellness](https://cs.brown.edu/media/filer_public/03/0a/030a6a2e-7a61-4c30-98c1-dce87b9d9899/brown_cs_health_and_wellness_resources.pdf) (and links therein) useful.
