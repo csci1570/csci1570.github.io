@@ -59,7 +59,7 @@ For questions related to course content or assignments, the best way to reach th
     <img src="{{ '/assets/staff/manas_snow.jpg' | relative_url }}" alt="Manas Korimilli" class="staff-avatar">
     <div class="staff-info">
       <h3 class="staff-name">Manas Korimilli</h3>
-      <p class="staff-role"><strong>HTA</strong><br><br>Hey! My name is Manas, and I'm a senior from Fremont, CA studying CS and APMA. Outside of TA'ing, I enjoy guitar, playing basketball, and reading. </p>
+      <p class="staff-role"><strong>HTA</strong><br><br>Hey! My name is Manas, and I'm a senior from Fremont, CA studying CS and APMA. Outside of TA'ing, I enjoy guitar, playing basketball, and reading. Really excited to meet you all this semester!</p>
     </div>
   </div>
 
