@@ -15,7 +15,7 @@ Only one student in each pair should submit to Gradescope (this student should a
 | 2 | Divide & Conquer | Sep 17 (Thurs) | Sep 24 (Thurs) | No | |
 | 3 | Dynamic Programming + Random Sampling | Sep 24 (Thurs) | Oct 1 (Thurs) | Yes | |
 | 4 | Online Data Structures | Oct 8 (Thurs) | Oct 15 (Thurs) | Yes | |
-| 5 | Bipartite Matching | Oct 15 (Thurs) | Oct 22 (Thurs) | Yes | |
+| 5 | Unweighted Bipartite Matching | Oct 15 (Thurs) | Oct 22 (Thurs) | Yes | |
 | 6 | Flows + Linear Programming | Oct 22 (Thurs) | Oct 29 (Thurs) | Yes | |
 | 7 | Clustering + Beyond Worst-Case | Nov 5 (Thurs) | Nov 12 (Thurs) | Yes | |
 | 8 | Approximation Algorithms | Nov 12 (Thurs) | Nov 19 (Thurs) | Yes | |
