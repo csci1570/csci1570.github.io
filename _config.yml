@@ -7,11 +7,18 @@ theme: just-the-docs
 url: https://csci1570.github.io
 edstem_url: &edstem_url "https://csci1570.github.io"
 gradescope_url: &gradescope_url "https://csci1570.github.io"
+syllabus_url: &syllabus_url "https://csci1570.github.io/assets/guides/CSCI1570Fall2026Syllabus.pdf"
 aux_links:
   Ed Discussion (TBA):
     - *edstem_url
   Gradescope (TBA):
     - *gradescope_url
+
+nav_external_links:
+  - title: "Syllabus"
+    url: *syllabus_url
+    hide_icon: false
+    opens_in_new_tab: true
 
 exclude:
   - LICENSE
