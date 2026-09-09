@@ -8,9 +8,9 @@ url: https://csci1570.github.io
 edstem_url: &edstem_url "https://csci1570.github.io"
 gradescope_url: &gradescope_url "https://csci1570.github.io"
 aux_links:
-  Ed Discussion:
+  Ed Discussion (TBA):
     - *edstem_url
-  Gradescope:
+  Gradescope (TBA):
     - *gradescope_url
 
 exclude:
