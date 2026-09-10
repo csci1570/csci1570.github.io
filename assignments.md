@@ -11,7 +11,7 @@ Only one student in each pair should submit to Gradescope (this student should a
 
 | # | Topic | Release | Due | Pairs? | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Greedy Algorithms | Sep 11 (Fri) | Sep 17 (Thurs) | No | |
+| 1 | Greedy Algorithms | Sep 10 (Thurs) | Sep 17 (Thurs) | No | |
 | 2 | Divide & Conquer | Sep 17 (Thurs) | Sep 24 (Thurs) | No | |
 | 3 | Dynamic Programming + Random Sampling | Sep 24 (Thurs) | Oct 1 (Thurs) | Yes | |
 | 4 | Online Data Structures | Oct 8 (Thurs) | Oct 15 (Thurs) | Yes | |
