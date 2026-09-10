@@ -7,11 +7,11 @@ Homework will be posted on [Gradescope]({{ site.gradescope_url }}). All assignme
 
 There are no late days (again, homeworks are graded on completion so you will get full credit as long as you turn something in before the deadline). Any homework turned in after the deadline will receive a 0.
 
-Only one student in each pair should submit to Gradescope (this student should add the other as a collaborator on the Gradescope assignment). Homework assignments and Overleaf LaTeX templates will also be posted on [Ed]({{ site.edstem_url }}).
+Only one student in each pair should submit to Gradescope (this student should add the other as a collaborator on the Gradescope assignment). You can and are encouraged to discuss with anyone in the class about the homework, but each pair (or student for the first 2 homeworks) should do their own writeup. Homework assignments and Overleaf LaTeX templates will also be posted on [Ed]({{ site.edstem_url }}).
 
 | # | Topic | Release | Due | Pairs? | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Greedy Algorithms | Sep 10 (Thurs) | Sep 17 (Thurs) | No | |
+| 1 | Greedy Algorithms | Sep 11 (Fri) | Sep 17 (Thurs) | No | |
 | 2 | Divide & Conquer | Sep 17 (Thurs) | Sep 24 (Thurs) | No | |
 | 3 | Dynamic Programming + Random Sampling | Sep 24 (Thurs) | Oct 1 (Thurs) | Yes | |
 | 4 | Online Data Structures | Oct 8 (Thurs) | Oct 15 (Thurs) | Yes | |
