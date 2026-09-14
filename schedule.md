@@ -41,3 +41,12 @@ nav_order: 2
 | 24 | Dec 08 (Tues) | Course Recap (Reading Period) | |
 | | Dec 10 (Thurs) | No Class (Reading Period) | |
 | | Dec 14 (Mon) | Final Exam | |
+
+# Lecture Notes
+
+{% assign notes = site.static_files
+    | where_exp: "file", "file.path contains '/assets/lecturenotes/'" %}
+
+{% for note in notes %}
+- [{{ note.basename | replace: "_", " " }}]({{ site.baseurl }}{{ note.path | relative_url }})
+{% endfor %}
