@@ -13,7 +13,7 @@ nav_order: 2
 
 | # | Date | Topic | Notes |
 | :--- | :--- | :--- | :--- |
-| 1 | Sep 10 (Thurs) | Part I | |
+| 1 | Sep 10 (Thurs) | Part I | [Lecture Notes]({{ site.baseurl }}/assets/lecturenotes/CS1570NotesSept10.pdf) |
 | 2 | Sep 15 (Tues) | | |
 | 3 | Sep 17 (Thurs) | | |
 | 4 | Sep 22 (Tues) | | |
