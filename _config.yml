@@ -9,9 +9,9 @@ edstem_url: &edstem_url "https://edstem.org/us/courses/105949"
 gradescope_url: &gradescope_url "https://www.gradescope.com/courses/1394018"
 syllabus_url: &syllabus_url "https://csci1570.github.io/assets/guides/CSCI1570Fall2026Syllabus.pdf"
 aux_links:
-  Ed Discussion (TBA):
+  Ed Discussion:
     - *edstem_url
-  Gradescope (TBA):
+  Gradescope:
     - *gradescope_url
 
 nav_external_links:
