@@ -3,6 +3,15 @@ title: Schedule
 layout: default
 nav_order: 2
 ---
+## Lecture Notes
+
+{% assign notes = site.static_files
+    | where_exp: "file", "file.path contains '/assets/lecturenotes/'" %}
+
+{% for note in notes %}
+- [{{ note.basename | replace: "_", " " }}]({{ site.baseurl }}{{ note.path | relative_url }})
+{% endfor %}
+
 ## Topics
 
 * *Part I*. Greedy Algorithms. Divide and Conquer. Dynamic Programming. Random Sampling. 
@@ -13,7 +22,7 @@ nav_order: 2
 
 | # | Date | Topic | Notes |
 | :--- | :--- | :--- | :--- |
-| 1 | Sep 10 (Thurs) | Part I | [Lecture Notes]({{ site.baseurl }}/assets/lecturenotes/CS1570NotesSept10.pdf) |
+| 1 | Sep 10 (Thurs) | Part I | |
 | 2 | Sep 15 (Tues) | | |
 | 3 | Sep 17 (Thurs) | | |
 | 4 | Sep 22 (Tues) | | |
@@ -41,12 +50,3 @@ nav_order: 2
 | 24 | Dec 08 (Tues) | Course Recap (Reading Period) | |
 | | Dec 10 (Thurs) | No Class (Reading Period) | |
 | | Dec 14 (Mon) | Final Exam | |
-
-# Lecture Notes
-
-{% assign notes = site.static_files
-    | where_exp: "file", "file.path contains '/assets/lecturenotes/'" %}
-
-{% for note in notes %}
-- [{{ note.basename | replace: "_", " " }}]({{ site.baseurl }}{{ note.path | relative_url }})
-{% endfor %}
