@@ -22,14 +22,14 @@ nav_order: 2
 
 | # | Date | Topic | Notes |
 | :--- | :--- | :--- | :--- |
-| 1 | Sep 10 (Thurs) | Part I | |
-| 2 | Sep 15 (Tues) | | |
-| 3 | Sep 17 (Thurs) | | |
-| 4 | Sep 22 (Tues) | | |
+| 1 | Sep 10 (Thurs) | Greedy Algorithms | Part I Start|
+| 2 | Sep 15 (Tues) | Divide and Conquer | |
+| 3 | Sep 17 (Thurs) | Dynamic Programming | |
+| 4 | Sep 22 (Tues) | Advanced Greedy Algorithms | |
 | 5 | Sep 24 (Thurs) | | |
 | 6 | Sep 29 (Tues) | | |
 | 7 | Oct 01 (Thurs) | | |
-| 8 | Oct 06 (Tues) | Part II (Tested on Midterm 2) | |
+| 8 | Oct 06 (Tues) | | Part II Start (Tested on Midterm 2) |
 | 9 | Oct 08 (Thurs) | Midterm 1 | |
 | 10 | Oct 13 (Tues) | | |
 | 11 | Oct 15 (Thurs) | | |
@@ -39,7 +39,7 @@ nav_order: 2
 | 15 | Oct 29 (Thurs) | | |
 | - | Nov 03 (Tues) | No Class (Election Day) | |
 | 16 | Nov 05 (Thurs) | Midterm 2 | |
-| 17 | Nov 10 (Tues) | Part III | |
+| 17 | Nov 10 (Tues) | | Part III Start |
 | 18 | Nov 12 (Thurs) | | |
 | 19 | Nov 17 (Tues) | | |
 | 20 | Nov 19 (Thurs) | | |
