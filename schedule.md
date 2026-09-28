@@ -29,7 +29,7 @@ nav_order: 2
 | 5 | Sep 24 (Thurs) | | |
 | 6 | Sep 29 (Tues) | | |
 | 7 | Oct 01 (Thurs) | | |
-| 8 | Oct 06 (Tues) | Group Problem-Solving Session | Midterm Review |
+| 8 | Oct 06 (Tues) | Group Problem-Solving Session | Midterm 1 Review |
 | 9 | Oct 08 (Thurs) | Midterm 1 | |
 | 10 | Oct 13 (Tues) | | Part II Start |
 | 11 | Oct 15 (Thurs) | | |
