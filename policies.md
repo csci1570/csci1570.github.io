@@ -27,7 +27,7 @@ The two midterms and the final are in class, closed book. However, to alleviate 
 
 The problems on the midterms and final will be mostly taken from the homework problems, but at least 1 in each midterm/final will be more challenging.
 
-Each of the homeworks will have a challenging bonus problems for students to try, but these bonus problems are guaranteed not to show up on the midterms and final.
+Each of the homeworks will have a challenging bonus problems for students to try.
 
 ## Interactions
 
