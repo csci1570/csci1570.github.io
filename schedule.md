@@ -26,9 +26,9 @@ nav_order: 2
 | 2 | Sep 15 (Tues) | Divide and Conquer | |
 | 3 | Sep 17 (Thurs) | Dynamic Programming | |
 | 4 | Sep 22 (Tues) | Advanced Greedy Algorithms | |
-| 5 | Sep 24 (Thurs) | | |
-| 6 | Sep 29 (Tues) | | |
-| 7 | Oct 01 (Thurs) | | |
+| 5 | Sep 24 (Thurs) | Advanced Divide and Conquer | |
+| 6 | Sep 29 (Tues) | Advanced Dynamic Programming | |
+| 7 | Oct 01 (Thurs) | Advanced Dynamic Programming | |
 | 8 | Oct 06 (Tues) | Group Problem-Solving Session | Midterm 1 Review |
 | 9 | Oct 08 (Thurs) | Midterm 1 | |
 | 10 | Oct 13 (Tues) | | Part II Start |
