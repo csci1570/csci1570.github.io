@@ -23,7 +23,7 @@ Homeworks must be typeset in LaTeX and submitted on [Gradescope]({{ site.gradesc
 
 ### Exam Details
 
-The two midterms and the final are in class, closed book. However, to alleviate the stress of not having access to course material, each student is allowed a 1-page handwritten summary of material of their choice. Preparing that page is also a chance for each student to review the course content and select what seems most important.
+The two midterms and the final are in class, closed book. However, to alleviate the stress of not having access to course material, each student will be given a 1-page sheet created by the course staff that contains useful information related to the content.
 
 The problems on the midterms and final will be mostly taken from the homework problems, but at least 1 in each midterm/final will be more challenging.
 
