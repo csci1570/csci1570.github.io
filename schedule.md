@@ -6,7 +6,8 @@ nav_order: 2
 ## Lecture Notes
 
 {% assign notes = site.static_files
-    | where_exp: "file", "file.path contains '/assets/lecturenotes/'" %}
+    | where_exp: "file", "file.path contains '/assets/lecturenotes/'"
+    | sort: "modified_time" %}
 
 {% for note in notes %}
 - [{{ note.basename | replace: "_", " " }}]({{ site.baseurl }}{{ note.path | relative_url }})
