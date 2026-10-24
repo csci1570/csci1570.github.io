@@ -5,23 +5,14 @@ nav_order: 2
 ---
 ## Lecture Notes
 
-{% assign notes = site.static_files | where_exp: "file", "file.path contains '/assets/lecturenotes/'" %}
+{% assign notes = site.static_files
+    | where_exp: "file", "file.path contains '/assets/lecturenotes/'"
+    | sort: "modified_time" %}
 
-{% assign sortable_notes = "" | split: "" %}
 {% for note in notes %}
-  {% assign timestamp = note.modified_time | date: "%Y%m%d%H%M%S" %}
-  {% assign entry = timestamp | append: "|" | append: note.path %}
-  {% assign sortable_notes = sortable_notes | push: entry %}
-{% endfor %}
 
-{% assign sorted_entries = sortable_notes | sort %}
-
-{% for entry in sorted_entries %}
-  {% assign parts = entry | split: "|" %}
-  {% assign note_path = parts[1] %}
-  {% assign note = site.static_files | where: "path", note_path | first %}
-  - [{{ note.basename | replace: "_", " " }}]({{ site.baseurl }}{{ note.path | relative_url }})
-{% endfor %}
+[{{ note.basename | replace: "_", " " }}]({{ site.baseurl }}{{ note.path | relative_url }})
+{% endfor %} 
 
 ## Topics
 
