@@ -19,4 +19,4 @@ Only one student in each pair should submit to Gradescope (this student should a
 | 6 | Flows + Linear Programming | Oct 23 (Fri) | Oct 29 (Thurs) | Yes | |
 | 7 | Clustering + Beyond Worst-Case | Nov 5 (Thurs) | Nov 12 (Thurs) | Yes | |
 | 8 | Approximation Algorithms | Nov 12 (Thurs) | Nov 19 (Thurs) | Yes | |
-| 9 | Stable Matching | Nov 19 (Thurs) | Dec 3 (Thurs) | Yes | |
+| 9 | Stable Matching | Nov 19 (Thurs) | Dec 3 (Thurs) | No | |
