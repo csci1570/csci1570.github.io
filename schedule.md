@@ -45,7 +45,7 @@ nav_order: 2
 | 18 | Nov 12 (Thurs) | | |
 | 19 | Nov 17 (Tues) | | |
 | 20 | Nov 19 (Thurs) | | |
-| 21 | Nov 24 (Tues) | | |
+| 21 | Nov 24 (Tues) | No Class (Thanksgiving) | |
 | - | Nov 26 (Thurs) | No Class (Thanksgiving) | |
 | 22 | Dec 01 (Tues) | | |
 | 23 | Dec 03 (Thurs) | | |
