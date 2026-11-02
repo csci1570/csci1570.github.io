@@ -31,9 +31,9 @@ nav_order: 2
 | 5 | Sep 24 (Thurs) | Advanced Divide and Conquer | |
 | 6 | Sep 29 (Tues) | Advanced Dynamic Programming | |
 | 7 | Oct 01 (Thurs) | Advanced Dynamic Programming | |
-| 8 | Oct 06 (Tues) | Group Problem-Solving Session | Midterm 1 Review |
+| 8 | Oct 06 (Tues) | Group Problem-Solving (Claire) | Midterm 1 Review |
 | 9 | Oct 08 (Thurs) | Midterm 1 | |
-| 10 | Oct 13 (Tues) | Amortized Analysis | Part II Start |
+| 10 | Oct 13 (Tues) | Amortized Analysis + Group Problem-Solving (Manas) | Part II Start |
 | 11 | Oct 15 (Thurs) | Amortized Analysis | |
 | 12 | Oct 20 (Tues) | Splay Trees | |
 | 13 | Oct 22 (Thurs) | Bipartite Matching | |
