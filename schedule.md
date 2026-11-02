@@ -33,12 +33,12 @@ nav_order: 2
 | 7 | Oct 01 (Thurs) | Advanced Dynamic Programming | |
 | 8 | Oct 06 (Tues) | Group Problem-Solving Session | Midterm 1 Review |
 | 9 | Oct 08 (Thurs) | Midterm 1 | |
-| 10 | Oct 13 (Tues) | | Part II Start |
-| 11 | Oct 15 (Thurs) | | |
-| 12 | Oct 20 (Tues) | | |
-| 13 | Oct 22 (Thurs) | | |
-| 14 | Oct 27 (Tues) | | |
-| 15 | Oct 29 (Thurs) | | |
+| 10 | Oct 13 (Tues) | Amortized Analysis | Part II Start |
+| 11 | Oct 15 (Thurs) | Amortized Analysis | |
+| 12 | Oct 20 (Tues) | Splay Trees | |
+| 13 | Oct 22 (Thurs) | Bipartite Matching | |
+| 14 | Oct 27 (Tues) | Bipartite Matching | |
+| 15 | Oct 29 (Thurs) | Network Flows | |
 | - | Nov 03 (Tues) | No Class (Election Day) | |
 | 16 | Nov 05 (Thurs) | Midterm 2 | |
 | 17 | Nov 10 (Tues) | | Part III Start |
