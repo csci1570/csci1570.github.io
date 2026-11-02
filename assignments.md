@@ -16,7 +16,7 @@ Only one student in each pair should submit to Gradescope (this student should a
 | 3 | Dynamic Programming + Random Sampling | Sep 24 (Thurs) | Oct 1 (Thurs) | Yes | |
 | 4 | Advanced Dynamic Programming | Oct 8 (Thurs) | Oct 15 (Thurs) | Yes | |
 | 5 | Online Data Structures | Oct 18 (Sun) | Oct 24 (Sat) | Yes | |
-| 6 | Flows + Linear Programming | Oct 23 (Fri) | Oct 29 (Thurs) | Yes | |
-| 7 | Clustering + Beyond Worst-Case | Nov 5 (Thurs) | Nov 12 (Thurs) | Yes | |
-| 8 | Approximation Algorithms | Nov 12 (Thurs) | Nov 19 (Thurs) | Yes | |
-| 9 | Stable Matching | Nov 19 (Thurs) | Dec 3 (Thurs) | No | |
+| 6 | Bipartite Matching | Oct 23 (Fri) | Oct 29 (Thurs) | Yes | |
+| 7 | Linear Programming | Nov 5 (Thurs) | Nov 12 (Thurs) | Yes | |
+| 8 | Clustering + Beyond Worst-Case | Nov 12 (Thurs) | Nov 19 (Thurs) | Yes | |
+| 9 | Approximation Algorithms + Stable Matching | Nov 19 (Thurs) | Dec 3 (Thurs) | No | |
