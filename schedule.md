@@ -41,9 +41,9 @@ nav_order: 2
 | 15 | Oct 29 (Thurs) | Network Flows | |
 | - | Nov 03 (Tues) | No Class (Election Day) | |
 | 16 | Nov 05 (Thurs) | Midterm 2 | |
-| 17 | Nov 10 (Tues) | | Part III Start |
-| 18 | Nov 12 (Thurs) | | |
-| 19 | Nov 17 (Tues) | | |
+| 17 | Nov 10 (Tues) | Edmonds-Karp | Part III Start |
+| 18 | Nov 12 (Thurs) | Edmonds' Blossom Algorithm | |
+| 19 | Nov 17 (Tues) | Linear Programming and Simplex Algorithm | |
 | 20 | Nov 19 (Thurs) | | |
 | 21 | Nov 24 (Tues) | No Class (Thanksgiving) | |
 | - | Nov 26 (Thurs) | No Class (Thanksgiving) | |
