@@ -49,6 +49,6 @@ nav_order: 2
 | - | Nov 26 (Thurs) | No Class (Thanksgiving) | |
 | 22 | Dec 01 (Tues) | | |
 | 23 | Dec 03 (Thurs) | | |
-| 24 | Dec 08 (Tues) | Course Recap (Reading Period) | |
+| 24 | Dec 08 (Tues) | Course Recap | |
 | | Dec 10 (Thurs) | No Class (Reading Period) | |
 | | Dec 14 (Mon) | Final Exam | |
